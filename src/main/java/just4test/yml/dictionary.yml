@@ -1,0 +1,10 @@
+dictionary:
+  direction:
+   - y
+   - x
+  cxlist:
+   - zhangsan
+   - wangwu
+   - 10086
+   - 10212
+

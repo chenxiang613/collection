@@ -1,0 +1,9 @@
+direction:
+ - left
+ - right
+amount:
+ - zhangsan
+ - wangwu
+ - 10086
+ - 10212
+
