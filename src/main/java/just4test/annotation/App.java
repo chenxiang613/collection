@@ -15,6 +15,7 @@ public class App {
             Annotation[] annotations = clazz.getAnnotations();
             for (Annotation annotation : annotations) {
                 System.out.println("Runtime"+annotation.toString());
+                //test git
             }
         } catch (ClassNotFoundException e) {
 			e.printStackTrace();
